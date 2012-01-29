@@ -1,0 +1,6 @@
+name = "Commerce product subform"
+description = "Create and associate commerce product inside product node."
+core = "7.x"
+php = "5.2.4"
+dependencies[] = "commerce_product"
+dependencies[] = "subform"
