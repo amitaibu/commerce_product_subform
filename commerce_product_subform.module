@@ -5,6 +5,8 @@
  * Create and associate commerce product inside product node.
  */
 
+include_once('commerce_product_subform.features.inc');
+
 
 /**
  * Implements hook_form_FORM_ID_alter().
